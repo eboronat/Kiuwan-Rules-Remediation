@@ -13,7 +13,8 @@ First of all, you will have to download a CSV file with all the rules informatio
 ## Running the program
 Import the project as a Maven one to get dependencies.
 
-1. The program must receive 4 arguments: username, password, application name and path to Excel file. 
+1. The program must receive 4 arguments: username, password, application name and path to Excel file.
+
 If you need to make changes, you can find Kiuwan Rest API documentation in: https://www.kiuwan.com/docs/display/K5/REST+API
 
 ## Output example
